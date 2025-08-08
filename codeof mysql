@@ -1,0 +1,24 @@
+show databases;
+use details_sales;
+describe details_salesofe_corcess;
+show tables;
+
+
+select* from details_salesofe_corcess;
+
+SELECT COUNT(*)
+FROM details_salesofe_corcess;
+
+SELECT SUM(Quantity)
+FROM details_salesofe_corcess;
+
+SELECT COUNT(Quantity)
+FROM details_salesofe_corcess
+group by Amount
+ORDER BY COUNT(Amount) DESC;
+
+SELECT COUNT(Order_ID)
+FROM details_salesofe_corcess
+group by Amount
+having COUNT(Quantity)>5;
+
