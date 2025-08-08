@@ -126,6 +126,8 @@ HAVING COUNT(Quantity) > 5;
 
 ---
 
-
-
-Do you want me to make that?
+<img width="681" height="374" alt="Image" src="https://github.com/user-attachments/assets/6306752d-af7d-4620-8bb5-a54937df41d0" />
+<img width="676" height="318" alt="Image" src="https://github.com/user-attachments/assets/358982bc-be16-40db-9b3a-b50b2cace3ab" />
+<img width="452" height="584" alt="Image" src="https://github.com/user-attachments/assets/e8271e58-5ed1-42be-a17e-402928e62258" />
+<img width="499" height="598" alt="Image" src="https://github.com/user-attachments/assets/871623dd-02af-42ba-b270-d3d557732d27" />
+<img width="1235" height="532" alt="Image" src="https://github.com/user-attachments/assets/06b64d6f-3485-4dc3-a35e-7113b8c115ba" />
